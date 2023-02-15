@@ -15,9 +15,9 @@ My main research interest is in devising deep learning methods for various 3D vi
 
 
 
-#<font color="#FF00BB">Publications</font>
+# <font color="#FF00BB">Publications</font>
 
-**Coordinates Are NOT Lonely--Codebook Prior Helps Implicit Neural 3D Representations**   
+<font color="#FF00BB">**Coordinates Are NOT Lonely--Codebook Prior Helps Implicit Neural 3D Representations**</font>   
 Advances in Neural Information Processing Systems (**NeruIPS**), 2022.  
 **Fukun Yin**, Wen Liu, Zilong Huang, Pei Cheng, Tao Chen, Gang Yu
 
