@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fukun Yin"
-  avatar           : "iyfk.png"
+  avatar           : "images/iyfk.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
