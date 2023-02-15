@@ -15,7 +15,7 @@ My main research interest is in devising deep learning methods for various 3D vi
 
 <style>
 body { background-color: #000 !important; }
-h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
+h11,h12,h13,p { color: #999 !important; }
 </style>
 
 Publications
