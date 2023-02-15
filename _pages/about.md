@@ -41,7 +41,7 @@ Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan
 # Experience
 
 **Fudan University**    &emsp;&nbsp;&nbsp;      PhD Student       &emsp;&emsp;&emsp;&emsp;     Sep. 2021 - Present  
-**Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present  
+**Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present  
 **Hunan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2018 - Jul. 2021  
 **Fuzhou University**   &emsp;    Bachelor Student  &emsp;&emsp;     Sep. 2014 - Jul. 2018  
 
