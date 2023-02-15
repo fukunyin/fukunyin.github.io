@@ -12,17 +12,18 @@ I am a PhD student in the [Department of Information Science and Technology](htt
 
 My main research interest is in devising deep learning methods for various 3D vision analysis and synthesis tasks.
 
+
+<style>
+body { background-color: #000 !important; }
+h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
+</style>
+
 Publications
 ======
 
-Coordinates Are NOT Lonely--Codebook Prior Helps Implicit Neural 3D Representations
-------
-
-Advances in Neural Information Processing Systems(**NeruIPS**), 2022.  
-**Fukun Yin**, Wen Liu, Zilong Huang, Pei Cheng, Tao Chen, Gang Yu
 
 **Coordinates Are NOT Lonely--Codebook Prior Helps Implicit Neural 3D Representations**   
-Advances in Neural Information Processing Systems(**NeruIPS**), 2022.  
+Advances in Neural Information Processing Systems (**NeruIPS**), 2022.  
 **Fukun Yin**, Wen Liu, Zilong Huang, Pei Cheng, Tao Chen, Gang Yu
 
 
