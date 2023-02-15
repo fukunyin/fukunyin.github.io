@@ -13,12 +13,9 @@ I am a PhD student in the [Department of Information Science and Technology](htt
 My main research interest is in devising deep learning methods for various 3D vision analysis and synthesis tasks.
 
 
-<style>
-body { background-color: #000 !important; }
-h11,h12,h13,p { color: #999 !important; }
-</style>
 
-Publications
+
+<font color="#FF00BB">Publications</font>
 ======
 
 
