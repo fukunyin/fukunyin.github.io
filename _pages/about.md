@@ -38,7 +38,14 @@ Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan
 [[Paper]](https://arxiv.org/abs/2301.06782) [[Project]](https://ommo.luchongshan.com/)
 
 
-# Getting started
+# Experience
+
+Sep. 2021 - Present  **Fudan University**
+
+May. 2021 - Present  **Tencent**
+
+
+
 
 
 Site-wide configuration
