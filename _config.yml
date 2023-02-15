@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fukun Yin (尹富坤)"
-  avatar           : "images/profile.png"
+  avatar           : 'profile.png'
   bio              : "PhD Candidate"
   location         : "Shanghai, China"
   employer         : # "Fudan University; PCG Tencent"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/fukunyin"
+  github           : "fukunyin"
   google_plus      :
   keybase          :
   instagram        :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
