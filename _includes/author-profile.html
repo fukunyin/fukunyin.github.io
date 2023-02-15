@@ -30,6 +30,9 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-school" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      {% if author.work %}
+        <li><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.work }}</li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
