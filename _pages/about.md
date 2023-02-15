@@ -41,22 +41,22 @@ Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan
 # Experience
 
 **Fudan University**    &emsp;&nbsp;&nbsp;      PhD Student       &emsp;&emsp;&emsp;&emsp;     Sep. 2021 - Present  
-
 **Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present  
-
 **Hunan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2018 - Jul. 2021  
-
 **Fuzhou University**   &emsp;    Bachelor Student  &emsp;&emsp;     Sep. 2014 - Jul. 2018  
 
 
 
 
 
-Site-wide configuration
-------
+# Honors 
+National Scholarship, 2020.  
+Outstanding Graduates, Hunan Province, 2021.  
+Outstanding Students, Hunan University, 2020.  
+Outstanding Graduates, Hunan University, 2021.  
+University-level Scholarship, 10 times (2016-2022)  
+Second Prize, 17th China Post-Graduate Mathematical Contest in Modeling, 2020.  
+First Prize, 1st Hunan Province Post-Graduate Artificial Intelligence Contest, 2020.  
 
 
-
-
-**Markdown generator**
 
