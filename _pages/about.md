@@ -44,6 +44,10 @@ Sep. 2021 - Present  **Fudan University**
 
 May. 2021 - Present  **Tencent**
 
+Sep. 2021 - Jul. 2021  **Hunan University**
+
+Sep. 2014 - Jul. 2018  **Fuzhou University**
+
 
 
 
