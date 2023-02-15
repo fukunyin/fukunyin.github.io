@@ -336,11 +336,11 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: #000;
+    background: #fff;
     border-radius: $border-radius;
 
     &:hover {
-      color: #000;
+      color: #fff;
     }
   }
 }
@@ -374,7 +374,7 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #000;
+  background-color: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
