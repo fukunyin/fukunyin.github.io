@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Fukun Yin (尹富坤)"
-  avatar           : "profile.png"
-  bio              : "*PhD Candidate*"
+  avatar           : "images/profile.png"
+  bio              : "PhD Candidate"
   location         : "Shanghai, China"
-  employer         : "Fudan University; PCG Tencent"
+  employer         : # "Fudan University; PCG Tencent"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=HGFT79EAAAAJ"
-  email            :
+  email            : "fkyin21@m.fudan.edu.cn"
   researchgate     :  
   uri              :
   bitbucket        :
