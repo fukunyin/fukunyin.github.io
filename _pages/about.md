@@ -57,6 +57,6 @@ Outstanding Graduates, Hunan University, 2021.
 University-level Scholarship, 10 times (2016-2022)  
 Second Prize, 17th China Post-Graduate Mathematical Contest in Modeling, 2020.  
 First Prize, 1st Hunan Province Post-Graduate Artificial Intelligence Contest, 2020.  
-
+Third Prize, 3rd Hunan Province Post-Graduate Artificial Intelligence Contest, 2022. 
 
 
