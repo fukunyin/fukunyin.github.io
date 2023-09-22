@@ -37,6 +37,9 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023.
 Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan  
 [[Paper]](https://arxiv.org/abs/2301.06782) [[Project]](https://ommo.luchongshan.com/)
 
+**<font color="#4169E1" size=4 >PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation</font>**  
+Advances in Neural Information Processing Systems (**NeruIPS**), 2023.
+Yuhan Ding, **Fukun Yin**, Jiayuan Fan, Hui Li, Xin Chen, Wen Liu, Chongshan Lu, Gang YU, Tao Chen
 
 # Experience
 
@@ -54,8 +57,9 @@ National Scholarship, 2020.
 Outstanding Graduates, Hunan Province, 2021.  
 Outstanding Students, Hunan University, 2020.  
 Outstanding Graduates, Hunan University, 2021.  
-University-level Scholarship, 10 times (2016-2022)  
+University-level Scholarship, 11 times (2016-2022)  
 Second Prize, 17th China Post-Graduate Mathematical Contest in Modeling, 2020.  
+Third Prize, 5th China Post-Graduate Artificial Intelligence Contest, 2023. 
 First Prize, 1st Hunan Province Post-Graduate Artificial Intelligence Contest, 2020.  
 Third Prize, 3rd Hunan Province Post-Graduate Artificial Intelligence Contest, 2022. 
 
