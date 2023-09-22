@@ -38,7 +38,7 @@ Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan
 [[Paper]](https://arxiv.org/abs/2301.06782) [[Project]](https://ommo.luchongshan.com/)
 
 **<font color="#4169E1" size=4 >PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation</font>**  
-Advances in Neural Information Processing Systems (**NeruIPS**), 2023.
+Advances in Neural Information Processing Systems (**NeruIPS**), 2023.  
 Yuhan Ding, **Fukun Yin**, Jiayuan Fan, Hui Li, Xin Chen, Wen Liu, Chongshan Lu, Gang YU, Tao Chen
 
 # Experience
