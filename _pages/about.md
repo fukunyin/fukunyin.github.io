@@ -17,6 +17,10 @@ My main research interest is in devising deep learning methods for various 3D vi
 
 # Publications
 
+**<font color="#4169E1" size=4 >ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model</font>**  
+**Fukun Yin**, Xin Chen, Chi Zhang, Biao Jiang, Zibo Zhao, Jiayuan Fan, Gang Yu, Taihao Li, Tao Chen  
+[[Paper]](https://arxiv.org/abs/2311.17618) [[Project]](https://shapegpt.github.io)
+
 **<font color="#4169E1" size=4 >Coordinates Are NOT Lonely--Codebook Prior Helps Implicit Neural 3D Representations</font>**  
 Advances in Neural Information Processing Systems (**NeruIPS**), 2022.  
 **Fukun Yin**, Wen Liu, Zilong Huang, Pei Cheng, Tao Chen, Gang Yu  
@@ -34,7 +38,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 
 **<font color="#4169E1" size=4 >PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation</font>**  
 Advances in Neural Information Processing Systems (**NeruIPS**), 2023.  
-Yuhan Ding, **Fukun Yin** (co-first author), Jiayuan Fan, Hui Li, Xin Chen, Wen Liu, Chongshan Lu, Gang YU, Tao Chen
+Yuhan Ding, **Fukun Yin (co-first author)**, Jiayuan Fan, Hui Li, Xin Chen, Wen Liu, Chongshan Lu, Gang YU, Tao Chen
 
 **<font color="#4169E1" size=4 >A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction</font>**  
 IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023.  
