@@ -45,13 +45,17 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023.
 Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan  
 [[Paper]](https://arxiv.org/abs/2301.06782) [[Project]](https://ommo.luchongshan.com/)
 
+**<font color="#4169E1" size=4 >Pm-INR: Prior-rich Multi-modal Implicit Large-scale Scene Neural Representation </font>**  
+Association for the Advancement of Artificial Intelligence (**AAAI**), 2024.  
+Yiying Yang, **Fukun Yin**, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
+
 
 # Experience
 
 **Fudan University**    &emsp;&nbsp;&nbsp;      PhD Student       &emsp;&emsp;&emsp;&emsp;     Sep. 2021 - Present  
 **Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present  
 **Hunan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2018 - Jul. 2021  
-**Fuzhou University**   &emsp;    Bachelor Student  &emsp;&emsp;     Sep. 2014 - Jul. 2018  
+**Fuzhou University**   &emsp;    Bachelor Student  &emsp;&emsp;    Sep. 2014 - Jul. 2018  
 
 
 
