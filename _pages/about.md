@@ -49,6 +49,16 @@ Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan
 Association for the Advancement of Artificial Intelligence (**AAAI**), 2024.  
 Yiying Yang, **Fukun Yin**, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
 
+**<font color="#4169E1" size=4 >Scale-Equivalent Distillation via Dual-Supervision for Semi-Supervised 3D Object Detection </font>**  
+IJCNN, 2024.  
+Sikai Wu, **Fukun Yin**, Hancheng Ye, and Tao Chen
+
+**<font color="#4169E1" size=4 >G-Former: A Grouping Transformer for Weakly Supervised Point Cloud Segmentation </font>**  
+IJCNN, 2024.  
+Zehan Huang, **Fukun Yin**, Jiayuan Fan, Xin Chen, Hongyuan Zhu, Bin Wang, Tao Chen
+
+
+
 
 # Experience
 
