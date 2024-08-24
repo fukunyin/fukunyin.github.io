@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am a PhD student in the <a href="http://www.it.fudan.edu.cn/En" style="color: #3358ff;">Department of Information Science and Technology</a> at the <a href="https://www.fudan.edu.cn/en" style="color: #3358ff;">Fudan University</a> under the supervision of <a href="https://eetchen.github.io/" style="color: #3358ff;">Prof. Tao Chen</a>.
+I am a PhD candidate in the <a href="http://www.it.fudan.edu.cn/En" style="color: #3358ff;">Department of Information Science and Technology</a> at the <a href="https://www.fudan.edu.cn/en" style="color: #3358ff;">Fudan University</a> under the supervision of <a href="https://eetchen.github.io/" style="color: #3358ff;">Prof. Tao Chen</a>.
 I am also an intern at <a href="https://www.stepfun.com/" style="color: #3358ff;">StepFun</a> (阶跃星辰) under the guidance of <a href="https://www.skicyyu.org/" style="color: #3358ff;">Gang Yu</a>. Before joining StepFun, I interned at Tencent for three years.
 
 
-My main research interests are in generative artificial intelligence, 3D vision analysis and synthesis tasks.
+My main research interests are in Generative Artificial Intelligence, 3D Vision Analysis and Synthesis tasks.
 
 
 
@@ -80,12 +80,33 @@ Weiwei Cai, Wen Liu, Wanzhang Li, Zibo Zhao, **Fukun Yin**, Xin Chen, L Zhao, Ta
 
 # Experience
 
-**Fudan University**    &emsp;&nbsp;&nbsp;      PhD Student       &emsp;&emsp;&emsp;&emsp;     Sep. 2021 - Present  
-**StepFun**     &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present   
-**Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - May. 2024
-**Hunan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2018 - Jul. 2021  
-**Fuzhou University**   &emsp;    Bachelor Student  &emsp;&emsp;    Sep. 2014 - Jul. 2018  
-
+<table>
+  <tr>
+    <td><strong>Fudan University</strong></td>
+    <td>PhD Student</td>
+    <td>Sep. 2021 - Present</td>
+  </tr>
+  <tr>
+    <td><strong>StepFun</strong></td>
+    <td>Intern Researcher</td>
+    <td>May. 2021 - Present</td>
+  </tr>
+  <tr>
+    <td><strong>Tencent</strong></td>
+    <td>Intern Researcher</td>
+    <td>May. 2021 - May. 2024</td>
+  </tr>
+  <tr>
+    <td><strong>Hunan University</strong></td>
+    <td>Master Student</td>
+    <td>Sep. 2018 - Jul. 2021</td>
+  </tr>
+  <tr>
+    <td><strong>Fuzhou University</strong></td>
+    <td>Bachelor Student</td>
+    <td>Sep. 2014 - Jul. 2018</td>
+  </tr>
+</table>
 
 
 
