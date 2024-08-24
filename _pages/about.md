@@ -39,7 +39,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yin_Accurate_Estimation_of_Body_Height_From_a_Single_Depth_Image_CVPR_2020_paper.html) [[Project]](https://depth2height.github.io/)
 
 **<font color="#4169E1" size=4 >Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE</font>**  
-Yiying Yang, **Fukun Yin (co-first author)**, Jiayuan Fan, Xin Chen, Wen Liu, Gang YU
+Yiying Yang, **Fukun Yin (co-first author)**, Jiayuan Fan, Xin Chen, Wen Liu, Gang YU  
 [[Paper]](https://arxiv.org/abs/2408.05477)
 
 **<font color="#4169E1" size=4 >PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation</font>**  
