@@ -81,7 +81,7 @@ Weiwei Cai, Wen Liu, Wanzhang Li, Zibo Zhao, **Fukun Yin**, Xin Chen, L Zhao, Ta
 # Experience
 
 **Fudan University**    &emsp;&nbsp;&nbsp;      PhD Student       &emsp;&emsp;&emsp;&emsp;     Sep. 2021 - Present  
-**StepFun**     &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present 
+**StepFun**     &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present   
 **Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - May. 2024
 **Hunan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2018 - Jul. 2021  
 **Fuzhou University**   &emsp;    Bachelor Student  &emsp;&emsp;    Sep. 2014 - Jul. 2018  
