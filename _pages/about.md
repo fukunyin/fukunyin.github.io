@@ -38,6 +38,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 **Fukun Yin**, Shizhe Zhou  
 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yin_Accurate_Estimation_of_Body_Height_From_a_Single_Depth_Image_CVPR_2020_paper.html) [[Project]](https://depth2height.github.io/)
 
+**<font color="#4169E1" size=4 >Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE</font>**  
+Yiying Yang, **Fukun Yin (co-first author)**, Jiayuan Fan, Xin Chen, Wen Liu, Gang YU
+[[Paper]](https://arxiv.org/abs/2408.05477)
+
 **<font color="#4169E1" size=4 >PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation</font>**  
 Advances in Neural Information Processing Systems (**NeruIPS**), 2023.  
 Yuhan Ding, **Fukun Yin (co-first author)**, Jiayuan Fan, Hui Li, Xin Chen, Wen Liu, Chongshan Lu, Gang YU, Tao Chen
@@ -51,6 +55,14 @@ Chongshan Lu, **Fukun Yin**, Xin Chen, Tao Chen, Gang Yu, Jiayuan Fan
 Association for the Advancement of Artificial Intelligence (**AAAI**), 2024.  
 Yiying Yang, **Fukun Yin**, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
 
+**<font color="#4169E1" size=4 >MotionChain: Conversational Motion Controllers via Multimodal Prompts</font>**  
+European Conference on Computer Vision (**ECCV**), 2024.  
+Biao Jiang, Xin Chen, Chi Zhang, **Fukun Yin**, Zhuoyuan Li, Gang Yu, Jiayuan Fan
+
+**<font color="#4169E1" size=4 >M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts</font>**  
+European Conference on Computer Vision (**ECCV**), 2024.  
+Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, **Fukun Yin**, Gang Yu, Tao Chen
+
 **<font color="#4169E1" size=4 >Scale-Equivalent Distillation via Dual-Supervision for Semi-Supervised 3D Object Detection </font>**  
 IJCNN, 2024.  
 Sikai Wu, **Fukun Yin**, Hancheng Ye, and Tao Chen
@@ -59,13 +71,18 @@ Sikai Wu, **Fukun Yin**, Hancheng Ye, and Tao Chen
 IJCNN, 2024.  
 Zehan Huang, **Fukun Yin**, Jiayuan Fan, Xin Chen, Hongyuan Zhu, Bin Wang, Tao Chen
 
+**<font color="#4169E1" size=4 >Instruct Pix-to-3D: Instructional 3D object generation from a single image</font>**  
+Neurocomputing, 2024.  
+Weiwei Cai, Wen Liu, Wanzhang Li, Zibo Zhao, **Fukun Yin**, Xin Chen, L Zhao, Tao Chen
+
 
 
 
 # Experience
 
 **Fudan University**    &emsp;&nbsp;&nbsp;      PhD Student       &emsp;&emsp;&emsp;&emsp;     Sep. 2021 - Present  
-**Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present  
+**StepFun**     &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - Present 
+**Tencent**          &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&thinsp;      Intern Researcher &thinsp;&emsp;&nbsp;&thinsp;&thinsp;     May. 2021 - May. 2024
 **Hunan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2018 - Jul. 2021  
 **Fuzhou University**   &emsp;    Bachelor Student  &emsp;&emsp;    Sep. 2014 - Jul. 2018  
 
@@ -78,7 +95,7 @@ National Scholarship, 2020.
 Outstanding Graduates, Hunan Province, 2021.  
 Outstanding Students, Hunan University, 2020.  
 Outstanding Graduates, Hunan University, 2021.  
-University-level Scholarship, 11 times (2016-2022)  
+University-level Scholarship, 13 times (2016-2024)  
 Second Prize, 17th China Post-Graduate Mathematical Contest in Modeling, 2020. 
 Third Prize, 5th China Post-Graduate Artificial Intelligence Contest, 2023.  
 First Prize, 1st Hunan Province Post-Graduate Artificial Intelligence Contest, 2020.  
