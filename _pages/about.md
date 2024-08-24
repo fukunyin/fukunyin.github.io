@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Information Science and Technology](http://www.it.fudan.edu.cn/En) at the [Fudan University](https://www.fudan.edu.cn/en) under the supervision of [Prof. Tao Chen](https://eetchen.github.io/).
 
 I am a PhD student in the <a href="http://www.it.fudan.edu.cn/En" style="color: #3358ff;">Department of Information Science and Technology</a> at the <a href="https://www.fudan.edu.cn/en" style="color: #3358ff;">Fudan University</a> under the supervision of <a href="https://eetchen.github.io/" style="color: #3358ff;">Prof. Tao Chen</a>.
-
-I am also an intern at [<span style="color: #3358ff;">StepFun</span>](https://www.stepfun.com/) under the guidance of [<span style="color: #3358ff;">Dr. Gang Yu</span>](https://www.example.com/).
-
+I am also an intern at <a href="https://www.stepfun.com/" style="color: #3358ff;">StepFun</a> under the guidance of <a href="https://www.skicyyu.org/" style="color: #3358ff;">Gang Yu</a>.
 
 
 My main research interest is in devising deep learning methods for various 3D vision analysis and synthesis tasks.
