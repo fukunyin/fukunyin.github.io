@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a PhD candidate in the <a href="http://www.it.fudan.edu.cn/En" style="color: #3358ff;">Department of Information Science and Technology</a> at the <a href="https://www.fudan.edu.cn/en" style="color: #3358ff;">Fudan University</a> under the supervision of <a href="https://eetchen.github.io/" style="color: #3358ff;">Prof. Tao Chen</a>.
-I am also an intern at <a href="https://www.stepfun.com/" style="color: #3358ff;">StepFun</a> (阶跃星辰) under the guidance of <a href="https://www.skicyyu.org/" style="color: #3358ff;">Gang Yu</a>. Before joining StepFun, I interned at Tencent for three years.
+I am also an intern at <a href="https://www.stepfun.com/" style="color: #3358ff;">StepFun</a> (阶跃星辰) under the guidance of <a href="https://www.skicyyu.org/" style="color: #3358ff;">Dr. Gang Yu</a>. Before joining StepFun, I interned at <a href="https://www.tencent.com" style="color: #3358ff;">Tencent</a> for three years.
 
 
 My main research interests are in Generative Artificial Intelligence, 3D Vision Analysis and Synthesis tasks.
